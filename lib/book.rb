@@ -14,12 +14,3 @@ class Book
   end
  
 end
-
-
-
-
-
-
-
-
-
